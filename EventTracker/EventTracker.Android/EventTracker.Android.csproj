@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\EventTracker\EventTracker.csproj">
-      <Project>{8C62CBE4-398F-4C3D-B275-C319AB4E60E5}</Project>
+      <Project>{F5B0832A-64F8-44EE-A959-257B70B132FC}</Project>
       <Name>EventTracker</Name>
     </ProjectReference>
   </ItemGroup>
